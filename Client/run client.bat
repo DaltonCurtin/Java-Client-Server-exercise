@@ -1,1 +1,1 @@
-java -jar chatClient.jar 127.0.0.1 1077
+java -jar chatClient.jar 24.218.192.54 1077
